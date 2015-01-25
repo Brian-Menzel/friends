@@ -1,0 +1,8 @@
+{
+  "ProjectName": "FriendsAppMobileTesting",
+  "ProjectGuid": "fba3f6a3-54ab-4c46-b4bb-3cadf0447d18",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "FrameworkVersion": "1.0",
+  "Framework": "MobileTesting"
+}
